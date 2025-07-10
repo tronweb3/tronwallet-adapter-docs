@@ -140,3 +140,10 @@ Examples:
 
 Here is the demo image:
 ![demo.png](./demo.png)
+
+## Wallet Integration Standards
+Wallets are encouraged to implement the following TRON interface standards to ensure compatibility with the TronWallet Adapter and the broader TRON dApp ecosystem:
+
+- [TIP-1193](https://github.com/tronprotocol/tips/blob/master/tip-1193.md) – Defines a standard TRON provider interface for dApps to communicate with wallets.
+
+By following these standards, wallets can be seamlessly integrated into modern TRON dApps using unified APIs and adapters.
